@@ -1,0 +1,26 @@
+!SESSION 2025-03-06 18:46:40.974 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/ujwalgaonkar/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/ujwalgaonkar/.eclipse_keyring -data /Users/ujwalgaonkar/Desktop/Assignment/Assignment_2_String Manipulation - Anagram Check
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-06 18:46:42.154
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-06 18:46:42.978
+!MESSAGE Logback config file: /Users/ujwalgaonkar/Desktop/Assignment/Assignment_2_String Manipulation - Anagram Check/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2025-03-06 19:00:50.743 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/ujwalgaonkar/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/ujwalgaonkar/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-06 19:00:51.711
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-06 19:00:52.638
+!MESSAGE Logback config file: /Users/ujwalgaonkar/Desktop/Assignment/Assignment_2_String Manipulation - Anagram Check/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
